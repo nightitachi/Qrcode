@@ -1,0 +1,45 @@
+html{
+  background: linear-gradient(180deg , black , rgb(130, 129, 129) , grey);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+}
+.container{
+  margin-top: 13%;
+  background-color: aliceblue;
+  margin-left: 30%;
+  margin-right: 30%;
+  border-radius: 18px;
+  border-color: rgb(10, 177, 244);
+}
+p{
+  font-size: 50px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align: center;
+
+}
+input{
+  margin-left: 20%;
+  border-radius: 18px;
+  border-color: blue;
+  font-size: 20px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  width: 320px;
+  height: 33px;
+}
+button{
+  margin-left: 40%;
+  margin-top: -3%;
+  margin-bottom: 3%;
+  height: 40px;
+  border-radius: 18px;
+  color: aliceblue;
+  background-color: rgb(0, 98, 255);
+  border: none;
+}
+#qrimg{
+  margin-left: 35%;
+  margin-top: 10%;
+  margin-bottom: 20%;
+
+}
